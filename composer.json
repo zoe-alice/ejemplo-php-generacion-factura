@@ -1,0 +1,14 @@
+{
+    "name": "usuario/ejemplos-pdf-php",
+    "description": "Generaci\u0000n de PDFs con PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Luis Tapia",
+            "email": "creactivahyo@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.3"
+    }
+}
